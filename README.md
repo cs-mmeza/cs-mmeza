@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to work as a data analyst and contribute to building up my knowledge and experience in this field.
 
-- 📫 Reach me on [linkedin!](https://www.linkedin.com/in/mauricio-meza/?locale=en_US)
+- 📫 Reach me [linkedin!](https://www.linkedin.com/in/mauricio-meza/?locale=en_US)
 
 
 
