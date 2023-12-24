@@ -1,13 +1,12 @@
-- 👋 Hi, I’m @cs-mmeza (Mauricio M.)
+👋 Hi, I’m Mauricio Meza @cs-mmeza, a Mechatronics enthusiast with a strong background in automation for industrial systems and mechanical design.
 
-- 👀 I’m interested in Data and how it impacts our daily routine.
- 
-- 🌱 I’m currently learning <b>Machine Learning, Data Warehouse, Data Engineering</b>.
+🌐 Passionate about the intersection of technology and everyday life, I'm currently exploring the realms of app and web development to understand how these innovations shape our daily routines.
 
-- 💞️ I’m looking to work as a data analyst and contribute to building up my knowledge and experience in this field.
+💡 My journey involves delving into Fullstack technologies, honing my skills with React.js and Node.js to create dynamic and efficient websites and mobile applications.
 
-- 📫 Reach me on [linkedin!](https://www.linkedin.com/in/mauricio-meza/?locale=en_US)
+🎯 On a mission to transition into the role of a Software Engineer, I am eager to contribute my expertise while continually building my knowledge and experience in this dynamic field.
 
+🔗 Let’s connect! Check out my [Linkedin!](https://www.linkedin.com/in/mauricio-meza/?locale=en_US) profile to explore my skills and experiences. I'm always open to new opportunities and collaborations. 🚀
 
 
 <!---
