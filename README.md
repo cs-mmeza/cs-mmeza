@@ -2,7 +2,7 @@
 
 🌐 Passionate about the intersection of technology and everyday life, I'm currently exploring the realms of app and web development to understand how these innovations shape our daily routines.
 
-💡 My journey involves delving into Software Engineering technologies, honing my skills with React.js and Node.js to create dynamic and efficient websites and mobile applications.
+💡 My journey involves delving into Software Engineering technologies, honing my skills with Next.js, React.js and Node.js to create dynamic and efficient websites and mobile applications.
 
 🎯 On a mission to transition into the role of a Full-Stack Developer, I am eager to contribute to my expertise while continually building my knowledge and experience in this dynamic field.
 
